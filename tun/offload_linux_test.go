@@ -11,8 +11,8 @@ import (
 
 	"github.com/amnezia-vpn/amneziawg-go/conn"
 	"golang.org/x/sys/unix"
-	"gvisor.dev/gvisor/pkg/tcpip"
-	"gvisor.dev/gvisor/pkg/tcpip/header"
+	"github.com/sagernet/gvisor/pkg/tcpip"
+	"github.com/sagernet/gvisor/pkg/tcpip/header"
 )
 
 const (
